@@ -13,7 +13,7 @@ As shown in Figure 1, we build the DI evaluation dataset. According to the disru
   Figure 1 Flowchart of DI evaluation dataset construction 
 </div>  
 
-### (1) Nobel evaluation dataset
+### (2) Nobel evaluation dataset
 As shown in Figure 2, we build the Nobel evaluation dataset. We selected three types of papers with different originality levels: *Nobel Prize papers*, *Nobel laureate papers*, and *random papers*. 
 
 <p align="center">
